@@ -1,4 +1,3 @@
-📝 Текст лицензии на русском
 Авторское право © Максим Найдович, 2025
 
 Вы можете свободно читать, копировать, распространять и адаптировать этот текст в некоммерческих целях, при соблюдении следующих условий:
@@ -15,7 +14,6 @@
 
 Лицензия: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-📝 License text in English
 Copyright © Maksim Naidovich, 2025
 
 You are free to read, copy, share, and adapt this work for non-commercial purposes, under the following conditions:
